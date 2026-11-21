@@ -1,0 +1,501 @@
+Order_ID,Customer_Name,Product,Category,Price,Quantity,City,Payment_Method,Order_Date,Total_Sales,Year,Month
+1001,Karan,Headphones,Electronics,20579.0,3,Gorakhpur,Debit Card,2025-01-01,61737.0,2025,1
+1002,Sneha,Headphones,Electronics,36720.0,3,Pune,Debit Card,2025-01-02,110160.0,2025,1
+1003,Rohit,Laptop,Electronics,42374.0,4,Gorakhpur,Upi,2025-01-03,169496.0,2025,1
+1004,Karan,Shoes,Fashion,14359.0,4,Gorakhpur,Upi,2025-01-04,57436.0,2025,1
+1005,Priya,Mobile,Electronics,50960.0,2,Gorakhpur,Upi,2025-01-05,101920.0,2025,1
+1006,Unknown,Laptop,Electronics,31919.0,2,Pune,Upi,2025-01-06,63838.0,2025,1
+1007,Rohit,Mobile,Electronics,9205.0,3,Jaipur,Cash,2025-01-07,27615.0,2025,1
+1008,Rohit,T-Shirt,Fashion,43380.0,1,Gorakhpur,Upi,2025-01-08,43380.0,2025,1
+1009,Karan,Mobile,Electronics,23736.0,4,Mumbai,Debit Card,2025-01-09,94944.0,2025,1
+1010,Aman,Shoes,Fashion,15858.0,2,Pune,Credit Card,2025-01-10,31716.0,2025,1
+1011,Priya,T-Shirt,Fashion,77418.0,3,Unknown,Cash,2025-01-11,232254.0,2025,1
+1012,Karan,Mobile,Electronics,15096.0,2,Jaipur,Upi,2025-01-12,30192.0,2025,1
+1013,Priya,T-Shirt,Fashion,34072.0,4,Pune,Credit Card,2025-01-13,136288.0,2025,1
+1014,Priya,Mobile,Electronics,79257.0,4,Lucknow,Cash,2025-01-14,317028.0,2025,1
+1015,Neha,Shoes,Fashion,1779.0,5,Jaipur,Credit Card,2025-01-15,8895.0,2025,1
+1016,Rohit,Mobile,Electronics,39268.0,1,Mumbai,Upi,2025-01-16,39268.0,2025,1
+1017,Sneha,Mobile,Electronics,63016.0,5,Gorakhpur,Upi,2025-01-17,315080.0,2025,1
+1018,Neha,Mobile,Electronics,7583.0,3,Lucknow,Debit Card,2025-01-18,22749.0,2025,1
+1019,Neha,Laptop,Electronics,18271.0,2,Lucknow,Upi,2025-01-19,36542.0,2025,1
+1020,Priya,Laptop,Electronics,30475.0,3,Pune,Upi,2025-01-20,91425.0,2025,1
+1021,Anjali,Laptop,Electronics,46148.0,3,Lucknow,Cash,2025-01-21,138444.0,2025,1
+1022,Rohit,Shoes,Fashion,48785.0,5,Mumbai,Debit Card,2025-01-22,243925.0,2025,1
+1023,Aman,T-Shirt,Fashion,19563.0,5,Mumbai,Cash,2025-01-23,97815.0,2025,1
+1024,Neha,Headphones,Electronics,68142.0,5,Delhi,Credit Card,2025-01-24,340710.0,2025,1
+1025,Sneha,Mobile,Electronics,38099.0,3,Mumbai,Upi,2025-01-25,114297.0,2025,1
+1026,Anjali,Mobile,Electronics,39268.0,4,Jaipur,Credit Card,2025-01-26,157072.0,2025,1
+1027,Anjali,Shoes,Fashion,29029.0,2,Lucknow,Cash,2025-01-27,58058.0,2025,1
+1028,Aman,Mobile,Electronics,36454.0,2,Mumbai,Upi,2025-01-28,72908.0,2025,1
+1029,Neha,Laptop,Electronics,28356.0,3,Pune,Upi,2025-01-29,85068.0,2025,1
+1030,Sneha,Headphones,Electronics,3073.0,5,Delhi,Cash,2025-01-30,15365.0,2025,1
+1031,Rohit,Watch,Accessories,78844.0,1,Lucknow,Unknown,2025-01-31,78844.0,2025,1
+1032,Rahul,Mobile,Electronics,35867.0,3,Delhi,Cash,2025-02-01,107601.0,2025,2
+1033,Sneha,Laptop,Electronics,61274.0,3,Lucknow,Cash,2025-02-02,183822.0,2025,2
+1034,Aman,Watch,Accessories,24252.0,4,Pune,Cash,2025-02-03,97008.0,2025,2
+1035,Anjali,Headphones,Electronics,55529.0,2,Delhi,Upi,2025-02-04,111058.0,2025,2
+1036,Rohit,Watch,Accessories,18185.0,3,Gorakhpur,Cash,2025-02-05,54555.0,2025,2
+1037,Sneha,Laptop,Electronics,52193.0,3,Jaipur,Upi,2025-02-06,156579.0,2025,2
+1038,Rahul,T-Shirt,Fashion,56461.0,5,Jaipur,Upi,2025-02-07,282305.0,2025,2
+1039,Rahul,T-Shirt,Fashion,77408.0,5,Lucknow,Cash,2025-02-08,387040.0,2025,2
+1040,Priya,Watch,Accessories,75032.0,1,Gorakhpur,Cash,2025-02-09,75032.0,2025,2
+1041,Priya,Shoes,Fashion,56633.0,4,Delhi,Debit Card,2025-02-10,226532.0,2025,2
+1042,Karan,Watch,Accessories,61768.0,1,Gorakhpur,Upi,2025-02-11,61768.0,2025,2
+1043,Aman,Mobile,Electronics,38743.0,5,Gorakhpur,Cash,2025-02-12,193715.0,2025,2
+1044,Neha,Mobile,Electronics,57884.0,2,Delhi,Cash,2025-02-13,115768.0,2025,2
+1045,Sneha,T-Shirt,Fashion,32153.0,5,Pune,Cash,2025-02-14,160765.0,2025,2
+1046,Sneha,Shoes,Fashion,27157.0,4,Gorakhpur,Debit Card,2025-02-15,108628.0,2025,2
+1047,Neha,Laptop,Electronics,40452.0,5,Gorakhpur,Debit Card,2025-02-16,202260.0,2025,2
+1048,Karan,Mobile,Electronics,22680.0,4,Pune,Credit Card,2025-02-17,90720.0,2025,2
+1049,Anjali,T-Shirt,Fashion,78911.0,4,Gorakhpur,Upi,2025-02-18,315644.0,2025,2
+1050,Anjali,Headphones,Electronics,2122.0,4,Gorakhpur,Credit Card,2025-02-19,8488.0,2025,2
+1051,Karan,T-Shirt,Fashion,49256.0,4,Gorakhpur,Cash,2025-02-20,197024.0,2025,2
+1052,Anjali,Mobile,Electronics,41309.0,4,Jaipur,Debit Card,2025-02-21,165236.0,2025,2
+1053,Priya,Mobile,Electronics,17225.0,2,Mumbai,Debit Card,2025-02-22,34450.0,2025,2
+1054,Sneha,T-Shirt,Fashion,61896.0,1,Pune,Credit Card,2025-02-23,61896.0,2025,2
+1055,Karan,Laptop,Electronics,51726.0,3,Gorakhpur,Debit Card,2025-02-24,155178.0,2025,2
+1056,Sneha,Watch,Accessories,29902.0,1,Jaipur,Cash,2025-02-25,29902.0,2025,2
+1057,Neha,Mobile,Electronics,4763.0,4,Pune,Debit Card,2025-02-26,19052.0,2025,2
+1058,Rahul,T-Shirt,Fashion,47328.0,2,Lucknow,Credit Card,2025-02-27,94656.0,2025,2
+1059,Priya,T-Shirt,Fashion,48424.0,5,Lucknow,Cash,2025-02-28,242120.0,2025,2
+1060,Rohit,Shoes,Fashion,74682.0,2,Gorakhpur,Credit Card,2025-03-01,149364.0,2025,3
+1061,Priya,Watch,Accessories,59552.0,4,Jaipur,Debit Card,2025-03-02,238208.0,2025,3
+1062,Karan,Headphones,Electronics,12164.0,2,Jaipur,Credit Card,2025-03-03,24328.0,2025,3
+1063,Rohit,Laptop,Electronics,36237.0,2,Pune,Credit Card,2025-03-04,72474.0,2025,3
+1064,Rahul,Headphones,Electronics,29873.0,4,Pune,Upi,2025-03-05,119492.0,2025,3
+1065,Karan,Watch,Accessories,36897.0,2,Jaipur,Debit Card,2025-03-06,73794.0,2025,3
+1066,Aman,Watch,Accessories,39209.0,3,Pune,Debit Card,2025-03-07,117627.0,2025,3
+1067,Sneha,Watch,Accessories,61620.0,3,Jaipur,Credit Card,2025-03-08,184860.0,2025,3
+1068,Rahul,Headphones,Electronics,19750.0,2,Mumbai,Upi,2025-03-09,39500.0,2025,3
+1069,Sneha,Watch,Accessories,21672.0,5,Jaipur,Debit Card,2025-03-10,108360.0,2025,3
+1070,Anjali,T-Shirt,Fashion,12055.0,4,Lucknow,Cash,2025-03-11,48220.0,2025,3
+1071,Aman,Headphones,Electronics,79117.0,3,Pune,Credit Card,2025-03-12,237351.0,2025,3
+1072,Aman,Watch,Accessories,53776.0,5,Jaipur,Debit Card,2025-03-13,268880.0,2025,3
+1073,Rahul,T-Shirt,Fashion,57992.0,2,Jaipur,Cash,2025-03-14,115984.0,2025,3
+1074,Aman,Shoes,Fashion,53502.0,5,Pune,Debit Card,2025-03-15,267510.0,2025,3
+1075,Rohit,Watch,Accessories,72855.0,1,Mumbai,Cash,2025-03-16,72855.0,2025,3
+1076,Aman,Headphones,Electronics,25262.0,3,Mumbai,Credit Card,2025-03-17,75786.0,2025,3
+1077,Sneha,Mobile,Electronics,11546.0,2,Pune,Debit Card,2025-03-18,23092.0,2025,3
+1078,Sneha,Watch,Accessories,29269.0,4,Delhi,Debit Card,2025-03-19,117076.0,2025,3
+1079,Karan,Mobile,Electronics,53802.0,2,Pune,Upi,2025-03-20,107604.0,2025,3
+1080,Sneha,T-Shirt,Fashion,23650.0,4,Pune,Credit Card,2025-03-21,94600.0,2025,3
+1081,Karan,Shoes,Fashion,68747.0,2,Mumbai,Cash,2025-03-22,137494.0,2025,3
+1082,Sneha,Laptop,Electronics,5353.0,5,Mumbai,Debit Card,2025-03-23,26765.0,2025,3
+1083,Rohit,Shoes,Fashion,22292.0,5,Pune,Debit Card,2025-03-24,111460.0,2025,3
+1084,Neha,Watch,Accessories,59629.0,5,Pune,Cash,2025-03-25,298145.0,2025,3
+1085,Karan,Mobile,Electronics,74978.0,1,Pune,Credit Card,2025-03-26,74978.0,2025,3
+1086,Priya,Mobile,Electronics,67798.0,4,Mumbai,Upi,2025-03-27,271192.0,2025,3
+1087,Anjali,Headphones,Electronics,32487.0,5,Pune,Upi,2025-03-28,162435.0,2025,3
+1088,Rahul,Mobile,Electronics,16350.0,1,Pune,Debit Card,2025-03-29,16350.0,2025,3
+1089,Sneha,Headphones,Electronics,12612.0,4,Gorakhpur,Cash,2025-03-30,50448.0,2025,3
+1090,Aman,T-Shirt,Fashion,24558.0,2,Delhi,Debit Card,2025-03-31,49116.0,2025,3
+1091,Neha,Laptop,Electronics,45920.0,1,Lucknow,Cash,2025-04-01,45920.0,2025,4
+1092,Sneha,Watch,Accessories,39390.0,3,Delhi,Upi,2025-04-02,118170.0,2025,4
+1093,Aman,Headphones,Electronics,66517.0,1,Gorakhpur,Credit Card,2025-04-03,66517.0,2025,4
+1094,Anjali,Laptop,Electronics,47804.0,1,Lucknow,Cash,2025-04-04,47804.0,2025,4
+1095,Anjali,Mobile,Electronics,33421.0,4,Pune,Upi,2025-04-05,133684.0,2025,4
+1096,Anjali,Mobile,Electronics,2024.0,2,Gorakhpur,Debit Card,2025-04-06,4048.0,2025,4
+1097,Aman,Laptop,Electronics,15548.0,3,Pune,Cash,2025-04-07,46644.0,2025,4
+1098,Sneha,Mobile,Electronics,35611.0,5,Mumbai,Credit Card,2025-04-08,178055.0,2025,4
+1099,Anjali,T-Shirt,Fashion,38404.0,5,Jaipur,Debit Card,2025-04-09,192020.0,2025,4
+1100,Rohit,T-Shirt,Fashion,55412.0,1,Gorakhpur,Debit Card,2025-04-10,55412.0,2025,4
+1101,Karan,Laptop,Electronics,34508.0,4,Mumbai,Upi,2025-04-11,138032.0,2025,4
+1102,Aman,Headphones,Electronics,560.0,4,Gorakhpur,Cash,2025-04-12,2240.0,2025,4
+1103,Aman,Headphones,Electronics,75166.0,5,Gorakhpur,Debit Card,2025-04-13,375830.0,2025,4
+1104,Sneha,Laptop,Electronics,55837.0,3,Mumbai,Credit Card,2025-04-14,167511.0,2025,4
+1105,Aman,Headphones,Electronics,13850.0,2,Lucknow,Cash,2025-04-15,27700.0,2025,4
+1106,Aman,Headphones,Electronics,24854.0,3,Delhi,Credit Card,2025-04-16,74562.0,2025,4
+1107,Anjali,T-Shirt,Fashion,45686.0,2,Pune,Debit Card,2025-04-17,91372.0,2025,4
+1108,Sneha,Headphones,Electronics,28645.0,5,Gorakhpur,Credit Card,2025-04-18,143225.0,2025,4
+1109,Anjali,Shoes,Fashion,34520.0,2,Pune,Upi,2025-04-19,69040.0,2025,4
+1110,Karan,Watch,Accessories,75686.0,4,Jaipur,Credit Card,2025-04-20,302744.0,2025,4
+1111,Neha,Mobile,Electronics,21081.0,1,Mumbai,Cash,2025-04-21,21081.0,2025,4
+1112,Karan,Shoes,Fashion,23551.0,1,Pune,Credit Card,2025-04-22,23551.0,2025,4
+1113,Neha,Headphones,Electronics,51974.0,5,Mumbai,Credit Card,2025-04-23,259870.0,2025,4
+1114,Anjali,T-Shirt,Fashion,70126.0,4,Pune,Upi,2025-04-24,280504.0,2025,4
+1115,Karan,Laptop,Electronics,7460.0,3,Delhi,Credit Card,2025-04-25,22380.0,2025,4
+1116,Sneha,Headphones,Electronics,36272.0,4,Delhi,Credit Card,2025-04-26,145088.0,2025,4
+1117,Rahul,T-Shirt,Fashion,22020.0,1,Delhi,Debit Card,2025-04-27,22020.0,2025,4
+1118,Anjali,Watch,Accessories,49981.0,1,Delhi,Debit Card,2025-04-28,49981.0,2025,4
+1119,Neha,Headphones,Electronics,36908.0,4,Delhi,Cash,2025-04-29,147632.0,2025,4
+1120,Rohit,Laptop,Electronics,57634.0,4,Delhi,Debit Card,2025-04-30,230536.0,2025,4
+1121,Neha,T-Shirt,Fashion,20991.0,1,Mumbai,Debit Card,2025-05-01,20991.0,2025,5
+1122,Rohit,T-Shirt,Fashion,1841.0,3,Gorakhpur,Debit Card,2025-05-02,5523.0,2025,5
+1123,Aman,T-Shirt,Fashion,45123.0,5,Pune,Debit Card,2025-05-03,225615.0,2025,5
+1124,Karan,Watch,Accessories,838.0,5,Delhi,Upi,2025-05-04,4190.0,2025,5
+1125,Rohit,Headphones,Electronics,71931.0,4,Mumbai,Debit Card,2025-05-05,287724.0,2025,5
+1126,Neha,Watch,Accessories,12754.0,5,Mumbai,Upi,2025-05-06,63770.0,2025,5
+1127,Aman,Mobile,Electronics,52360.0,1,Mumbai,Upi,2025-05-07,52360.0,2025,5
+1128,Rahul,Mobile,Electronics,11844.0,1,Gorakhpur,Debit Card,2025-05-08,11844.0,2025,5
+1129,Sneha,Headphones,Electronics,2250.0,4,Pune,Credit Card,2025-05-09,9000.0,2025,5
+1130,Sneha,Watch,Accessories,55256.0,4,Gorakhpur,Upi,2025-05-10,221024.0,2025,5
+1131,Sneha,Laptop,Electronics,68457.0,4,Lucknow,Credit Card,2025-05-11,273828.0,2025,5
+1132,Rohit,T-Shirt,Fashion,58553.0,3,Mumbai,Credit Card,2025-05-12,175659.0,2025,5
+1133,Rahul,T-Shirt,Fashion,71355.0,5,Lucknow,Debit Card,2025-05-13,356775.0,2025,5
+1134,Rohit,Headphones,Electronics,16396.0,4,Jaipur,Cash,2025-05-14,65584.0,2025,5
+1135,Karan,Mobile,Electronics,56261.0,2,Delhi,Debit Card,2025-05-15,112522.0,2025,5
+1136,Rohit,Mobile,Electronics,63052.0,2,Delhi,Cash,2025-05-16,126104.0,2025,5
+1137,Rahul,T-Shirt,Fashion,77954.0,1,Gorakhpur,Cash,2025-05-17,77954.0,2025,5
+1138,Rahul,Headphones,Electronics,28435.0,5,Pune,Debit Card,2025-05-18,142175.0,2025,5
+1139,Karan,Watch,Accessories,38141.0,4,Lucknow,Debit Card,2025-05-19,152564.0,2025,5
+1140,Rahul,Mobile,Electronics,30211.0,2,Pune,Cash,2025-05-20,60422.0,2025,5
+1141,Neha,Watch,Accessories,70842.0,5,Gorakhpur,Debit Card,2025-05-21,354210.0,2025,5
+1142,Rahul,Mobile,Electronics,12682.0,1,Delhi,Cash,2025-05-22,12682.0,2025,5
+1143,Sneha,Mobile,Electronics,56776.0,3,Pune,Credit Card,2025-05-23,170328.0,2025,5
+1144,Neha,Shoes,Fashion,20041.0,5,Pune,Debit Card,2025-05-24,100205.0,2025,5
+1145,Neha,Mobile,Electronics,45313.0,5,Delhi,Credit Card,2025-05-25,226565.0,2025,5
+1146,Karan,Laptop,Electronics,37698.0,3,Lucknow,Upi,2025-05-26,113094.0,2025,5
+1147,Priya,Headphones,Electronics,9320.0,5,Delhi,Credit Card,2025-05-27,46600.0,2025,5
+1148,Priya,Headphones,Electronics,24570.0,1,Pune,Credit Card,2025-05-28,24570.0,2025,5
+1149,Rahul,Watch,Accessories,70268.0,1,Lucknow,Cash,2025-05-29,70268.0,2025,5
+1150,Neha,Mobile,Electronics,11622.0,3,Lucknow,Credit Card,2025-05-30,34866.0,2025,5
+1151,Priya,Laptop,Electronics,74043.0,4,Delhi,Debit Card,2025-05-31,296172.0,2025,5
+1152,Priya,Watch,Accessories,42286.0,2,Pune,Cash,2025-06-01,84572.0,2025,6
+1153,Rahul,Shoes,Fashion,7237.0,4,Gorakhpur,Upi,2025-06-02,28948.0,2025,6
+1154,Priya,Watch,Accessories,36562.0,5,Pune,Debit Card,2025-06-03,182810.0,2025,6
+1155,Rohit,Watch,Accessories,54737.0,2,Mumbai,Upi,2025-06-04,109474.0,2025,6
+1156,Aman,Mobile,Electronics,52071.0,3,Jaipur,Credit Card,2025-06-05,156213.0,2025,6
+1157,Karan,Shoes,Fashion,26010.0,3,Gorakhpur,Debit Card,2025-06-06,78030.0,2025,6
+1158,Aman,Watch,Accessories,19926.0,2,Lucknow,Debit Card,2025-06-07,39852.0,2025,6
+1159,Rahul,Laptop,Electronics,37765.0,1,Gorakhpur,Upi,2025-06-08,37765.0,2025,6
+1160,Sneha,Laptop,Electronics,18350.0,2,Lucknow,Debit Card,2025-06-09,36700.0,2025,6
+1161,Karan,Headphones,Electronics,66650.0,5,Lucknow,Debit Card,2025-06-10,333250.0,2025,6
+1162,Rahul,Shoes,Fashion,75410.0,1,Gorakhpur,Debit Card,2025-06-11,75410.0,2025,6
+1163,Neha,Shoes,Fashion,52875.0,3,Lucknow,Credit Card,2025-06-12,158625.0,2025,6
+1164,Sneha,Headphones,Electronics,35935.0,2,Lucknow,Upi,2025-06-13,71870.0,2025,6
+1165,Aman,Watch,Accessories,57632.0,4,Mumbai,Debit Card,2025-06-14,230528.0,2025,6
+1166,Rahul,Shoes,Fashion,79445.0,4,Pune,Cash,2025-06-15,317780.0,2025,6
+1167,Neha,Laptop,Electronics,3483.0,5,Pune,Cash,2025-06-16,17415.0,2025,6
+1168,Karan,Laptop,Electronics,21162.0,4,Jaipur,Cash,2025-06-17,84648.0,2025,6
+1169,Karan,Mobile,Electronics,24010.0,2,Jaipur,Cash,2025-06-18,48020.0,2025,6
+1170,Anjali,Shoes,Fashion,78687.0,2,Mumbai,Credit Card,2025-06-19,157374.0,2025,6
+1171,Neha,Watch,Accessories,41498.0,4,Jaipur,Debit Card,2025-06-20,165992.0,2025,6
+1172,Rohit,Headphones,Electronics,57346.0,2,Gorakhpur,Upi,2025-06-21,114692.0,2025,6
+1173,Priya,Headphones,Electronics,7140.0,5,Delhi,Debit Card,2025-06-22,35700.0,2025,6
+1174,Sneha,Watch,Accessories,45047.0,1,Delhi,Credit Card,2025-06-23,45047.0,2025,6
+1175,Neha,T-Shirt,Fashion,55120.0,5,Delhi,Cash,2025-06-24,275600.0,2025,6
+1176,Anjali,Mobile,Electronics,15817.0,5,Mumbai,Credit Card,2025-06-25,79085.0,2025,6
+1177,Priya,Headphones,Electronics,8064.0,2,Mumbai,Debit Card,2025-06-26,16128.0,2025,6
+1178,Priya,Shoes,Fashion,27845.0,1,Lucknow,Upi,2025-06-27,27845.0,2025,6
+1179,Rahul,Mobile,Electronics,79773.0,2,Delhi,Credit Card,2025-06-28,159546.0,2025,6
+1180,Priya,Shoes,Fashion,75359.0,3,Gorakhpur,Upi,2025-06-29,226077.0,2025,6
+1181,Rohit,Laptop,Electronics,74538.0,2,Jaipur,Credit Card,2025-06-30,149076.0,2025,6
+1182,Karan,Mobile,Electronics,52893.0,2,Gorakhpur,Upi,2025-07-01,105786.0,2025,7
+1183,Anjali,Headphones,Electronics,66581.0,2,Jaipur,Upi,2025-07-02,133162.0,2025,7
+1184,Priya,Mobile,Electronics,29930.0,1,Delhi,Cash,2025-07-03,29930.0,2025,7
+1185,Rahul,Mobile,Electronics,76032.0,2,Delhi,Upi,2025-07-04,152064.0,2025,7
+1186,Rohit,Mobile,Electronics,28288.0,1,Delhi,Cash,2025-07-05,28288.0,2025,7
+1187,Aman,T-Shirt,Fashion,49043.0,4,Mumbai,Debit Card,2025-07-06,196172.0,2025,7
+1188,Karan,Mobile,Electronics,14419.0,3,Jaipur,Debit Card,2025-07-07,43257.0,2025,7
+1189,Karan,Shoes,Fashion,69846.0,1,Mumbai,Cash,2025-07-08,69846.0,2025,7
+1190,Anjali,Laptop,Electronics,40474.0,4,Mumbai,Cash,2025-07-09,161896.0,2025,7
+1191,Karan,Watch,Accessories,16871.0,1,Pune,Credit Card,2025-07-10,16871.0,2025,7
+1192,Priya,Mobile,Electronics,45584.0,1,Gorakhpur,Credit Card,2025-07-11,45584.0,2025,7
+1193,Rahul,Headphones,Electronics,30129.0,3,Gorakhpur,Credit Card,2025-07-12,90387.0,2025,7
+1194,Karan,Mobile,Electronics,51684.0,5,Lucknow,Debit Card,2025-07-13,258420.0,2025,7
+1195,Karan,Headphones,Electronics,62416.0,5,Mumbai,Credit Card,2025-07-14,312080.0,2025,7
+1196,Aman,Shoes,Fashion,74472.0,1,Jaipur,Upi,2025-07-15,74472.0,2025,7
+1197,Aman,Headphones,Electronics,62687.0,2,Pune,Upi,2025-07-16,125374.0,2025,7
+1198,Sneha,Watch,Accessories,13484.0,4,Pune,Credit Card,2025-07-17,53936.0,2025,7
+1199,Rohit,Laptop,Electronics,33539.0,2,Gorakhpur,Upi,2025-07-18,67078.0,2025,7
+1200,Priya,Headphones,Electronics,59106.0,2,Mumbai,Debit Card,2025-07-19,118212.0,2025,7
+1201,Karan,Headphones,Electronics,11116.0,1,Lucknow,Upi,2025-07-20,11116.0,2025,7
+1202,Neha,Laptop,Electronics,50572.0,1,Mumbai,Debit Card,2025-07-21,50572.0,2025,7
+1203,Karan,Watch,Accessories,25074.0,1,Delhi,Cash,2025-07-22,25074.0,2025,7
+1204,Rahul,Mobile,Electronics,3930.0,1,Mumbai,Cash,2025-07-23,3930.0,2025,7
+1205,Sneha,Headphones,Electronics,13176.0,5,Delhi,Cash,2025-07-24,65880.0,2025,7
+1206,Rohit,Laptop,Electronics,11316.0,1,Delhi,Cash,2025-07-25,11316.0,2025,7
+1207,Neha,Shoes,Fashion,33233.0,5,Lucknow,Upi,2025-07-26,166165.0,2025,7
+1208,Sneha,Laptop,Electronics,2550.0,5,Jaipur,Credit Card,2025-07-27,12750.0,2025,7
+1209,Anjali,Shoes,Fashion,34433.0,1,Gorakhpur,Upi,2025-07-28,34433.0,2025,7
+1210,Rohit,Watch,Accessories,25451.0,3,Mumbai,Debit Card,2025-07-29,76353.0,2025,7
+1211,Karan,Mobile,Electronics,32913.0,4,Delhi,Upi,2025-07-30,131652.0,2025,7
+1212,Karan,Laptop,Electronics,35301.0,2,Mumbai,Upi,2025-07-31,70602.0,2025,7
+1213,Rohit,T-Shirt,Fashion,56119.0,5,Jaipur,Debit Card,2025-08-01,280595.0,2025,8
+1214,Karan,Headphones,Electronics,33413.0,4,Gorakhpur,Cash,2025-08-02,133652.0,2025,8
+1215,Priya,Watch,Accessories,41100.0,3,Jaipur,Cash,2025-08-03,123300.0,2025,8
+1216,Rohit,Laptop,Electronics,58275.0,2,Gorakhpur,Cash,2025-08-04,116550.0,2025,8
+1217,Sneha,Headphones,Electronics,35900.0,2,Pune,Credit Card,2025-08-05,71800.0,2025,8
+1218,Rohit,Laptop,Electronics,4994.0,5,Gorakhpur,Debit Card,2025-08-06,24970.0,2025,8
+1219,Neha,Shoes,Fashion,75191.0,1,Lucknow,Debit Card,2025-08-07,75191.0,2025,8
+1220,Karan,Laptop,Electronics,43501.0,3,Jaipur,Upi,2025-08-08,130503.0,2025,8
+1221,Priya,T-Shirt,Fashion,67864.0,5,Delhi,Credit Card,2025-08-09,339320.0,2025,8
+1222,Priya,Laptop,Electronics,45528.0,3,Pune,Cash,2025-08-10,136584.0,2025,8
+1223,Anjali,Laptop,Electronics,38073.0,1,Lucknow,Credit Card,2025-08-11,38073.0,2025,8
+1224,Sneha,T-Shirt,Fashion,1306.0,1,Mumbai,Debit Card,2025-08-12,1306.0,2025,8
+1225,Aman,Watch,Accessories,57138.0,5,Jaipur,Debit Card,2025-08-13,285690.0,2025,8
+1226,Aman,Laptop,Electronics,30257.0,1,Delhi,Upi,2025-08-14,30257.0,2025,8
+1227,Rohit,T-Shirt,Fashion,35136.0,4,Gorakhpur,Upi,2025-08-15,140544.0,2025,8
+1228,Anjali,Headphones,Electronics,48780.0,2,Delhi,Debit Card,2025-08-16,97560.0,2025,8
+1229,Rahul,Shoes,Fashion,24762.0,5,Mumbai,Cash,2025-08-17,123810.0,2025,8
+1230,Rohit,Shoes,Fashion,62711.0,3,Pune,Cash,2025-08-18,188133.0,2025,8
+1231,Anjali,Laptop,Electronics,55342.0,4,Pune,Credit Card,2025-08-19,221368.0,2025,8
+1232,Sneha,Watch,Accessories,57479.0,5,Jaipur,Debit Card,2025-08-20,287395.0,2025,8
+1233,Sneha,Watch,Accessories,38697.0,1,Pune,Debit Card,2025-08-21,38697.0,2025,8
+1234,Sneha,Headphones,Electronics,42344.0,1,Jaipur,Cash,2025-08-22,42344.0,2025,8
+1235,Sneha,Laptop,Electronics,65254.0,1,Jaipur,Cash,2025-08-23,65254.0,2025,8
+1236,Sneha,Shoes,Fashion,34657.0,1,Jaipur,Debit Card,2025-08-24,34657.0,2025,8
+1237,Anjali,Watch,Accessories,77629.0,3,Gorakhpur,Upi,2025-08-25,232887.0,2025,8
+1238,Anjali,Laptop,Electronics,40542.0,4,Lucknow,Debit Card,2025-08-26,162168.0,2025,8
+1239,Priya,Watch,Accessories,62165.0,2,Jaipur,Debit Card,2025-08-27,124330.0,2025,8
+1240,Neha,T-Shirt,Fashion,27876.0,3,Jaipur,Cash,2025-08-28,83628.0,2025,8
+1241,Aman,Watch,Accessories,56054.0,3,Lucknow,Cash,2025-08-29,168162.0,2025,8
+1242,Karan,Shoes,Fashion,14699.0,2,Delhi,Upi,2025-08-30,29398.0,2025,8
+1243,Sneha,Mobile,Electronics,51448.0,2,Jaipur,Upi,2025-08-31,102896.0,2025,8
+1244,Rahul,Headphones,Electronics,74281.0,1,Gorakhpur,Credit Card,2025-09-01,74281.0,2025,9
+1245,Karan,Headphones,Electronics,73250.0,3,Pune,Debit Card,2025-09-02,219750.0,2025,9
+1246,Anjali,Shoes,Fashion,66762.0,5,Pune,Cash,2025-09-03,333810.0,2025,9
+1247,Rahul,Watch,Accessories,47100.0,2,Mumbai,Upi,2025-09-04,94200.0,2025,9
+1248,Rahul,Laptop,Electronics,77398.0,2,Mumbai,Credit Card,2025-09-05,154796.0,2025,9
+1249,Rahul,Watch,Accessories,62983.0,4,Pune,Credit Card,2025-09-06,251932.0,2025,9
+1250,Priya,Shoes,Fashion,18797.0,5,Pune,Cash,2025-09-07,93985.0,2025,9
+1251,Anjali,Headphones,Electronics,30948.0,5,Gorakhpur,Cash,2025-09-08,154740.0,2025,9
+1252,Rahul,Watch,Accessories,26672.0,2,Lucknow,Credit Card,2025-09-09,53344.0,2025,9
+1253,Sneha,Headphones,Electronics,43374.0,1,Mumbai,Upi,2025-09-10,43374.0,2025,9
+1254,Rohit,Laptop,Electronics,8157.0,4,Lucknow,Credit Card,2025-09-11,32628.0,2025,9
+1255,Rahul,Headphones,Electronics,25925.0,5,Gorakhpur,Debit Card,2025-09-12,129625.0,2025,9
+1256,Priya,Headphones,Electronics,27185.0,2,Pune,Debit Card,2025-09-13,54370.0,2025,9
+1257,Karan,Mobile,Electronics,25078.0,5,Jaipur,Cash,2025-09-14,125390.0,2025,9
+1258,Anjali,Mobile,Electronics,29331.0,4,Lucknow,Upi,2025-09-15,117324.0,2025,9
+1259,Neha,T-Shirt,Fashion,8406.0,4,Pune,Upi,2025-09-16,33624.0,2025,9
+1260,Priya,Mobile,Electronics,61913.0,3,Pune,Debit Card,2025-09-17,185739.0,2025,9
+1261,Rahul,Headphones,Electronics,54528.0,2,Delhi,Credit Card,2025-09-18,109056.0,2025,9
+1262,Anjali,Shoes,Fashion,7787.0,4,Lucknow,Cash,2025-09-19,31148.0,2025,9
+1263,Rohit,Headphones,Electronics,34160.0,3,Jaipur,Credit Card,2025-09-20,102480.0,2025,9
+1264,Rahul,Shoes,Fashion,76258.0,3,Lucknow,Credit Card,2025-09-21,228774.0,2025,9
+1265,Priya,Shoes,Fashion,61004.0,5,Pune,Credit Card,2025-09-22,305020.0,2025,9
+1266,Aman,Mobile,Electronics,60220.0,5,Jaipur,Upi,2025-09-23,301100.0,2025,9
+1267,Sneha,Watch,Accessories,35201.0,3,Gorakhpur,Debit Card,2025-09-24,105603.0,2025,9
+1268,Neha,Laptop,Electronics,18174.0,5,Delhi,Upi,2025-09-25,90870.0,2025,9
+1269,Karan,Mobile,Electronics,24374.0,4,Pune,Debit Card,2025-09-26,97496.0,2025,9
+1270,Priya,Mobile,Electronics,44142.0,1,Mumbai,Cash,2025-09-27,44142.0,2025,9
+1271,Anjali,Watch,Accessories,65660.0,4,Mumbai,Cash,2025-09-28,262640.0,2025,9
+1272,Neha,Laptop,Electronics,18102.0,3,Delhi,Credit Card,2025-09-29,54306.0,2025,9
+1273,Neha,Headphones,Electronics,26431.0,3,Gorakhpur,Debit Card,2025-09-30,79293.0,2025,9
+1274,Neha,T-Shirt,Fashion,29692.0,4,Pune,Debit Card,2025-10-01,118768.0,2025,10
+1275,Rahul,T-Shirt,Fashion,47042.0,5,Lucknow,Debit Card,2025-10-02,235210.0,2025,10
+1276,Sneha,Headphones,Electronics,43020.0,5,Delhi,Credit Card,2025-10-03,215100.0,2025,10
+1277,Rahul,Mobile,Electronics,65272.0,3,Gorakhpur,Credit Card,2025-10-04,195816.0,2025,10
+1278,Anjali,Laptop,Electronics,59262.0,2,Lucknow,Cash,2025-10-05,118524.0,2025,10
+1279,Rahul,Mobile,Electronics,50606.0,5,Mumbai,Upi,2025-10-06,253030.0,2025,10
+1280,Aman,Shoes,Fashion,26059.0,4,Mumbai,Debit Card,2025-10-07,104236.0,2025,10
+1281,Sneha,Mobile,Electronics,34242.0,5,Lucknow,Debit Card,2025-10-08,171210.0,2025,10
+1282,Sneha,Mobile,Electronics,70169.0,4,Delhi,Upi,2025-10-09,280676.0,2025,10
+1283,Anjali,Headphones,Electronics,22254.0,3,Mumbai,Debit Card,2025-10-10,66762.0,2025,10
+1284,Karan,Headphones,Electronics,4472.0,5,Pune,Credit Card,2025-10-11,22360.0,2025,10
+1285,Aman,Headphones,Electronics,71331.0,4,Jaipur,Credit Card,2025-10-12,285324.0,2025,10
+1286,Priya,T-Shirt,Fashion,42373.0,3,Lucknow,Debit Card,2025-10-13,127119.0,2025,10
+1287,Rahul,Shoes,Fashion,10403.0,2,Lucknow,Credit Card,2025-10-14,20806.0,2025,10
+1288,Rohit,Headphones,Electronics,3520.0,4,Mumbai,Credit Card,2025-10-15,14080.0,2025,10
+1289,Rahul,Laptop,Electronics,42255.0,2,Delhi,Debit Card,2025-10-16,84510.0,2025,10
+1290,Neha,T-Shirt,Fashion,46148.0,2,Pune,Cash,2025-10-17,92296.0,2025,10
+1291,Rahul,Watch,Accessories,10016.0,1,Delhi,Upi,2025-10-18,10016.0,2025,10
+1292,Priya,Laptop,Electronics,2896.0,5,Gorakhpur,Credit Card,2025-10-19,14480.0,2025,10
+1293,Rahul,Laptop,Electronics,19629.0,4,Gorakhpur,Cash,2025-10-20,78516.0,2025,10
+1294,Aman,Headphones,Electronics,2091.0,2,Jaipur,Credit Card,2025-10-21,4182.0,2025,10
+1295,Aman,Watch,Accessories,11803.0,1,Mumbai,Credit Card,2025-10-22,11803.0,2025,10
+1296,Sneha,Watch,Accessories,31061.0,3,Mumbai,Upi,2025-10-23,93183.0,2025,10
+1297,Anjali,T-Shirt,Fashion,72219.0,4,Mumbai,Credit Card,2025-10-24,288876.0,2025,10
+1298,Karan,Watch,Accessories,7814.0,2,Jaipur,Upi,2025-10-25,15628.0,2025,10
+1299,Rohit,Shoes,Fashion,20123.0,5,Gorakhpur,Upi,2025-10-26,100615.0,2025,10
+1300,Neha,Headphones,Electronics,68175.0,1,Delhi,Upi,2025-10-27,68175.0,2025,10
+1301,Rahul,Watch,Accessories,65582.0,2,Jaipur,Cash,2025-10-28,131164.0,2025,10
+1302,Rahul,T-Shirt,Fashion,33630.0,5,Jaipur,Debit Card,2025-10-29,168150.0,2025,10
+1303,Priya,Shoes,Fashion,52256.0,2,Delhi,Cash,2025-10-30,104512.0,2025,10
+1304,Anjali,Mobile,Electronics,26792.0,4,Mumbai,Debit Card,2025-10-31,107168.0,2025,10
+1305,Aman,Mobile,Electronics,69774.0,4,Pune,Debit Card,2025-11-01,279096.0,2025,11
+1306,Rohit,Shoes,Fashion,2969.0,4,Delhi,Upi,2025-11-02,11876.0,2025,11
+1307,Sneha,T-Shirt,Fashion,54447.0,1,Gorakhpur,Credit Card,2025-11-03,54447.0,2025,11
+1308,Aman,Shoes,Fashion,23034.0,4,Lucknow,Upi,2025-11-04,92136.0,2025,11
+1309,Neha,Headphones,Electronics,64120.0,5,Lucknow,Credit Card,2025-11-05,320600.0,2025,11
+1310,Anjali,Headphones,Electronics,49374.0,2,Jaipur,Debit Card,2025-11-06,98748.0,2025,11
+1311,Neha,Mobile,Electronics,50208.0,3,Lucknow,Upi,2025-11-07,150624.0,2025,11
+1312,Karan,Watch,Accessories,75053.0,5,Pune,Credit Card,2025-11-08,375265.0,2025,11
+1313,Sneha,T-Shirt,Fashion,68844.0,5,Mumbai,Cash,2025-11-09,344220.0,2025,11
+1314,Karan,Mobile,Electronics,49638.0,4,Gorakhpur,Credit Card,2025-11-10,198552.0,2025,11
+1315,Priya,Watch,Accessories,54802.0,1,Pune,Upi,2025-11-11,54802.0,2025,11
+1316,Neha,Watch,Accessories,48138.0,2,Gorakhpur,Cash,2025-11-12,96276.0,2025,11
+1317,Priya,Headphones,Electronics,78749.0,1,Gorakhpur,Credit Card,2025-11-13,78749.0,2025,11
+1318,Rahul,Laptop,Electronics,3219.0,2,Mumbai,Credit Card,2025-11-14,6438.0,2025,11
+1319,Karan,Laptop,Electronics,23390.0,2,Jaipur,Credit Card,2025-11-15,46780.0,2025,11
+1320,Anjali,Shoes,Fashion,77736.0,1,Lucknow,Credit Card,2025-11-16,77736.0,2025,11
+1321,Neha,Headphones,Electronics,37009.0,5,Mumbai,Credit Card,2025-11-17,185045.0,2025,11
+1322,Rohit,Watch,Accessories,43034.0,2,Pune,Cash,2025-11-18,86068.0,2025,11
+1323,Sneha,T-Shirt,Fashion,19287.0,1,Jaipur,Debit Card,2025-11-19,19287.0,2025,11
+1324,Aman,Laptop,Electronics,49345.0,2,Pune,Cash,2025-11-20,98690.0,2025,11
+1325,Anjali,Watch,Accessories,58432.0,3,Jaipur,Cash,2025-11-21,175296.0,2025,11
+1326,Anjali,Laptop,Electronics,33562.0,5,Pune,Cash,2025-11-22,167810.0,2025,11
+1327,Priya,Laptop,Electronics,76213.0,4,Mumbai,Debit Card,2025-11-23,304852.0,2025,11
+1328,Karan,Laptop,Electronics,60961.0,2,Jaipur,Upi,2025-11-24,121922.0,2025,11
+1329,Neha,T-Shirt,Fashion,75918.0,3,Jaipur,Debit Card,2025-11-25,227754.0,2025,11
+1330,Neha,Headphones,Electronics,67172.0,4,Gorakhpur,Cash,2025-11-26,268688.0,2025,11
+1331,Rahul,T-Shirt,Fashion,35332.0,4,Gorakhpur,Credit Card,2025-11-27,141328.0,2025,11
+1332,Rahul,Mobile,Electronics,32466.0,2,Delhi,Credit Card,2025-11-28,64932.0,2025,11
+1333,Sneha,Watch,Accessories,73045.0,1,Pune,Cash,2025-11-29,73045.0,2025,11
+1334,Priya,Headphones,Electronics,13487.0,2,Gorakhpur,Credit Card,2025-11-30,26974.0,2025,11
+1335,Anjali,Headphones,Electronics,37811.0,3,Delhi,Cash,2025-12-01,113433.0,2025,12
+1336,Neha,Headphones,Electronics,32075.0,4,Gorakhpur,Credit Card,2025-12-02,128300.0,2025,12
+1337,Rohit,Headphones,Electronics,64352.0,2,Pune,Debit Card,2025-12-03,128704.0,2025,12
+1338,Priya,T-Shirt,Fashion,1507.0,1,Jaipur,Upi,2025-12-04,1507.0,2025,12
+1339,Sneha,Headphones,Electronics,71481.0,2,Lucknow,Upi,2025-12-05,142962.0,2025,12
+1340,Sneha,Shoes,Fashion,76742.0,5,Pune,Debit Card,2025-12-06,383710.0,2025,12
+1341,Priya,Watch,Accessories,48017.0,1,Mumbai,Debit Card,2025-12-07,48017.0,2025,12
+1342,Sneha,Headphones,Electronics,29757.0,3,Gorakhpur,Cash,2025-12-08,89271.0,2025,12
+1343,Priya,Watch,Accessories,42707.0,4,Gorakhpur,Cash,2025-12-09,170828.0,2025,12
+1344,Aman,Shoes,Fashion,13781.0,2,Jaipur,Cash,2025-12-10,27562.0,2025,12
+1345,Priya,Shoes,Fashion,61746.0,1,Mumbai,Credit Card,2025-12-11,61746.0,2025,12
+1346,Karan,Watch,Accessories,1935.0,5,Jaipur,Cash,2025-12-12,9675.0,2025,12
+1347,Priya,Laptop,Electronics,27160.0,1,Mumbai,Debit Card,2025-12-13,27160.0,2025,12
+1348,Sneha,Mobile,Electronics,5584.0,5,Lucknow,Upi,2025-12-14,27920.0,2025,12
+1349,Neha,Laptop,Electronics,14007.0,3,Gorakhpur,Credit Card,2025-12-15,42021.0,2025,12
+1350,Karan,Laptop,Electronics,73095.0,4,Gorakhpur,Cash,2025-12-16,292380.0,2025,12
+1351,Sneha,T-Shirt,Fashion,46039.0,3,Lucknow,Credit Card,2025-12-17,138117.0,2025,12
+1352,Rahul,Laptop,Electronics,7991.0,2,Delhi,Credit Card,2025-12-18,15982.0,2025,12
+1353,Rahul,Headphones,Electronics,50692.0,1,Jaipur,Cash,2025-12-19,50692.0,2025,12
+1354,Neha,T-Shirt,Fashion,64388.0,5,Lucknow,Credit Card,2025-12-20,321940.0,2025,12
+1355,Neha,T-Shirt,Fashion,74109.0,5,Jaipur,Upi,2025-12-21,370545.0,2025,12
+1356,Karan,Shoes,Fashion,9577.0,1,Pune,Debit Card,2025-12-22,9577.0,2025,12
+1357,Aman,Laptop,Electronics,21453.0,1,Gorakhpur,Debit Card,2025-12-23,21453.0,2025,12
+1358,Neha,Shoes,Fashion,77419.0,2,Jaipur,Upi,2025-12-24,154838.0,2025,12
+1359,Rahul,Watch,Accessories,68389.0,3,Mumbai,Credit Card,2025-12-25,205167.0,2025,12
+1360,Priya,Mobile,Electronics,24321.0,5,Jaipur,Cash,2025-12-26,121605.0,2025,12
+1361,Sneha,T-Shirt,Fashion,38067.0,2,Pune,Credit Card,2025-12-27,76134.0,2025,12
+1362,Rahul,Watch,Accessories,25360.0,3,Gorakhpur,Upi,2025-12-28,76080.0,2025,12
+1363,Rahul,Watch,Accessories,21695.0,2,Lucknow,Credit Card,2025-12-29,43390.0,2025,12
+1364,Aman,Headphones,Electronics,77975.0,5,Pune,Debit Card,2025-12-30,389875.0,2025,12
+1365,Karan,Mobile,Electronics,21927.0,1,Gorakhpur,Credit Card,2025-12-31,21927.0,2025,12
+1366,Karan,Watch,Accessories,27583.0,1,Jaipur,Upi,2026-01-01,27583.0,2026,1
+1367,Anjali,Watch,Accessories,57872.0,3,Delhi,Debit Card,2026-01-02,173616.0,2026,1
+1368,Aman,Mobile,Electronics,44564.0,4,Delhi,Credit Card,2026-01-03,178256.0,2026,1
+1369,Priya,Mobile,Electronics,8313.0,3,Mumbai,Credit Card,2026-01-04,24939.0,2026,1
+1370,Karan,Watch,Accessories,32098.0,4,Gorakhpur,Debit Card,2026-01-05,128392.0,2026,1
+1371,Sneha,Mobile,Electronics,27582.0,2,Delhi,Cash,2026-01-06,55164.0,2026,1
+1372,Neha,Watch,Accessories,29741.0,2,Lucknow,Debit Card,2026-01-07,59482.0,2026,1
+1373,Aman,Watch,Accessories,45069.0,5,Gorakhpur,Cash,2026-01-08,225345.0,2026,1
+1374,Neha,Headphones,Electronics,12245.0,4,Lucknow,Upi,2026-01-09,48980.0,2026,1
+1375,Rahul,Laptop,Electronics,26529.0,5,Lucknow,Upi,2026-01-10,132645.0,2026,1
+1376,Sneha,Watch,Accessories,13525.0,1,Delhi,Debit Card,2026-01-11,13525.0,2026,1
+1377,Sneha,Shoes,Fashion,14788.0,4,Gorakhpur,Debit Card,2026-01-12,59152.0,2026,1
+1378,Rahul,T-Shirt,Fashion,7040.0,3,Jaipur,Upi,2026-01-13,21120.0,2026,1
+1379,Aman,Laptop,Electronics,69378.0,1,Pune,Cash,2026-01-14,69378.0,2026,1
+1380,Rahul,Laptop,Electronics,42346.0,1,Delhi,Upi,2026-01-15,42346.0,2026,1
+1381,Neha,Laptop,Electronics,76432.0,3,Delhi,Debit Card,2026-01-16,229296.0,2026,1
+1382,Anjali,Headphones,Electronics,17982.0,1,Jaipur,Upi,2026-01-17,17982.0,2026,1
+1383,Sneha,Watch,Accessories,23911.0,4,Gorakhpur,Debit Card,2026-01-18,95644.0,2026,1
+1384,Rohit,Headphones,Electronics,51475.0,5,Gorakhpur,Debit Card,2026-01-19,257375.0,2026,1
+1385,Rohit,Watch,Accessories,61045.0,1,Lucknow,Upi,2026-01-20,61045.0,2026,1
+1386,Neha,Headphones,Electronics,79297.0,4,Jaipur,Cash,2026-01-21,317188.0,2026,1
+1387,Priya,Headphones,Electronics,52807.0,2,Jaipur,Credit Card,2026-01-22,105614.0,2026,1
+1388,Karan,T-Shirt,Fashion,3593.0,4,Gorakhpur,Upi,2026-01-23,14372.0,2026,1
+1389,Rahul,Shoes,Fashion,77758.0,5,Lucknow,Credit Card,2026-01-24,388790.0,2026,1
+1390,Rahul,Headphones,Electronics,22542.0,4,Delhi,Upi,2026-01-25,90168.0,2026,1
+1391,Priya,T-Shirt,Fashion,53430.0,3,Mumbai,Credit Card,2026-01-26,160290.0,2026,1
+1392,Priya,Mobile,Electronics,44913.0,5,Pune,Cash,2026-01-27,224565.0,2026,1
+1393,Neha,Shoes,Fashion,34256.0,2,Delhi,Cash,2026-01-28,68512.0,2026,1
+1394,Neha,Headphones,Electronics,53768.0,3,Gorakhpur,Upi,2026-01-29,161304.0,2026,1
+1395,Priya,Laptop,Electronics,39714.0,4,Pune,Debit Card,2026-01-30,158856.0,2026,1
+1396,Sneha,Mobile,Electronics,29102.0,5,Mumbai,Credit Card,2026-01-31,145510.0,2026,1
+1397,Neha,Mobile,Electronics,53831.0,2,Mumbai,Debit Card,2026-02-01,107662.0,2026,2
+1398,Anjali,T-Shirt,Fashion,49401.0,3,Lucknow,Debit Card,2026-02-02,148203.0,2026,2
+1399,Neha,Mobile,Electronics,63916.0,2,Pune,Debit Card,2026-02-03,127832.0,2026,2
+1400,Rahul,Shoes,Fashion,32696.0,4,Lucknow,Cash,2026-02-04,130784.0,2026,2
+1401,Neha,Headphones,Electronics,6126.0,2,Delhi,Upi,2026-02-05,12252.0,2026,2
+1402,Sneha,Headphones,Electronics,7924.0,1,Jaipur,Upi,2026-02-06,7924.0,2026,2
+1403,Priya,Laptop,Electronics,13357.0,3,Jaipur,Cash,2026-02-07,40071.0,2026,2
+1404,Rahul,T-Shirt,Fashion,20482.0,2,Jaipur,Cash,2026-02-08,40964.0,2026,2
+1405,Neha,Laptop,Electronics,77461.0,4,Pune,Upi,2026-02-09,309844.0,2026,2
+1406,Sneha,Mobile,Electronics,2480.0,4,Jaipur,Debit Card,2026-02-10,9920.0,2026,2
+1407,Anjali,Laptop,Electronics,48790.0,2,Delhi,Credit Card,2026-02-11,97580.0,2026,2
+1408,Neha,Shoes,Fashion,26931.0,4,Lucknow,Credit Card,2026-02-12,107724.0,2026,2
+1409,Sneha,Headphones,Electronics,26885.0,5,Pune,Credit Card,2026-02-13,134425.0,2026,2
+1410,Anjali,Mobile,Electronics,38658.0,5,Lucknow,Debit Card,2026-02-14,193290.0,2026,2
+1411,Priya,Laptop,Electronics,23519.0,5,Pune,Upi,2026-02-15,117595.0,2026,2
+1412,Neha,T-Shirt,Fashion,19139.0,1,Lucknow,Cash,2026-02-16,19139.0,2026,2
+1413,Anjali,Shoes,Fashion,22063.0,2,Mumbai,Upi,2026-02-17,44126.0,2026,2
+1414,Rahul,Shoes,Fashion,39841.0,1,Lucknow,Debit Card,2026-02-18,39841.0,2026,2
+1415,Priya,Laptop,Electronics,6276.0,4,Jaipur,Cash,2026-02-19,25104.0,2026,2
+1416,Rahul,Headphones,Electronics,36944.0,1,Mumbai,Debit Card,2026-02-20,36944.0,2026,2
+1417,Rohit,Laptop,Electronics,69416.0,4,Lucknow,Credit Card,2026-02-21,277664.0,2026,2
+1418,Aman,Mobile,Electronics,9211.0,4,Pune,Credit Card,2026-02-22,36844.0,2026,2
+1419,Neha,Laptop,Electronics,74818.0,3,Pune,Debit Card,2026-02-23,224454.0,2026,2
+1420,Anjali,Shoes,Fashion,31207.0,5,Pune,Cash,2026-02-24,156035.0,2026,2
+1421,Aman,Laptop,Electronics,39610.0,4,Gorakhpur,Cash,2026-02-25,158440.0,2026,2
+1422,Aman,Headphones,Electronics,62288.0,3,Delhi,Upi,2026-02-26,186864.0,2026,2
+1423,Anjali,T-Shirt,Fashion,39327.0,5,Pune,Credit Card,2026-02-27,196635.0,2026,2
+1424,Priya,Watch,Accessories,6155.0,4,Mumbai,Upi,2026-02-28,24620.0,2026,2
+1425,Neha,Laptop,Electronics,45359.0,4,Pune,Upi,2026-03-01,181436.0,2026,3
+1426,Rohit,Headphones,Electronics,54125.0,1,Gorakhpur,Debit Card,2026-03-02,54125.0,2026,3
+1427,Rahul,Headphones,Electronics,52598.0,1,Jaipur,Debit Card,2026-03-03,52598.0,2026,3
+1428,Sneha,T-Shirt,Fashion,15751.0,5,Mumbai,Upi,2026-03-04,78755.0,2026,3
+1429,Rahul,Shoes,Fashion,1026.0,4,Gorakhpur,Credit Card,2026-03-05,4104.0,2026,3
+1430,Sneha,Headphones,Electronics,69260.0,2,Jaipur,Debit Card,2026-03-06,138520.0,2026,3
+1431,Rahul,Headphones,Electronics,48337.0,1,Mumbai,Upi,2026-03-07,48337.0,2026,3
+1432,Anjali,Headphones,Electronics,12036.0,5,Lucknow,Upi,2026-03-08,60180.0,2026,3
+1433,Rohit,Headphones,Electronics,29041.0,4,Delhi,Upi,2026-03-09,116164.0,2026,3
+1434,Neha,Mobile,Electronics,79583.0,4,Delhi,Upi,2026-03-10,318332.0,2026,3
+1435,Sneha,Mobile,Electronics,51527.0,2,Gorakhpur,Upi,2026-03-11,103054.0,2026,3
+1436,Neha,Shoes,Fashion,35031.0,5,Jaipur,Upi,2026-03-12,175155.0,2026,3
+1437,Neha,Laptop,Electronics,9212.0,4,Delhi,Debit Card,2026-03-13,36848.0,2026,3
+1438,Neha,Headphones,Electronics,65955.0,1,Jaipur,Credit Card,2026-03-14,65955.0,2026,3
+1439,Karan,T-Shirt,Fashion,75244.0,2,Jaipur,Upi,2026-03-15,150488.0,2026,3
+1440,Priya,Laptop,Electronics,5609.0,5,Gorakhpur,Cash,2026-03-16,28045.0,2026,3
+1441,Rahul,T-Shirt,Fashion,49768.0,2,Gorakhpur,Debit Card,2026-03-17,99536.0,2026,3
+1442,Neha,Laptop,Electronics,55115.0,1,Gorakhpur,Debit Card,2026-03-18,55115.0,2026,3
+1443,Rahul,Shoes,Fashion,30259.0,5,Delhi,Upi,2026-03-19,151295.0,2026,3
+1444,Neha,Headphones,Electronics,60612.0,2,Gorakhpur,Debit Card,2026-03-20,121224.0,2026,3
+1445,Sneha,Headphones,Electronics,27089.0,3,Delhi,Upi,2026-03-21,81267.0,2026,3
+1446,Priya,Watch,Accessories,30515.0,1,Gorakhpur,Credit Card,2026-03-22,30515.0,2026,3
+1447,Priya,T-Shirt,Fashion,29509.0,1,Pune,Credit Card,2026-03-23,29509.0,2026,3
+1448,Anjali,Laptop,Electronics,62546.0,1,Jaipur,Debit Card,2026-03-24,62546.0,2026,3
+1449,Karan,Laptop,Electronics,26643.0,3,Gorakhpur,Debit Card,2026-03-25,79929.0,2026,3
+1450,Anjali,Mobile,Electronics,6654.0,3,Mumbai,Cash,2026-03-26,19962.0,2026,3
+1451,Anjali,Watch,Accessories,22304.0,4,Jaipur,Debit Card,2026-03-27,89216.0,2026,3
+1452,Anjali,Mobile,Electronics,42188.0,2,Jaipur,Cash,2026-03-28,84376.0,2026,3
+1453,Anjali,Mobile,Electronics,64788.0,4,Gorakhpur,Credit Card,2026-03-29,259152.0,2026,3
+1454,Anjali,Mobile,Electronics,51695.0,2,Lucknow,Credit Card,2026-03-30,103390.0,2026,3
+1455,Rohit,T-Shirt,Fashion,21081.0,3,Gorakhpur,Upi,2026-03-31,63243.0,2026,3
+1456,Priya,T-Shirt,Fashion,53148.0,3,Jaipur,Credit Card,2026-04-01,159444.0,2026,4
+1457,Anjali,Shoes,Fashion,30587.0,4,Mumbai,Cash,2026-04-02,122348.0,2026,4
+1458,Neha,Shoes,Fashion,50430.0,5,Jaipur,Debit Card,2026-04-03,252150.0,2026,4
+1459,Priya,Mobile,Electronics,33481.0,4,Mumbai,Upi,2026-04-04,133924.0,2026,4
+1460,Priya,Watch,Accessories,69798.0,2,Delhi,Cash,2026-04-05,139596.0,2026,4
+1461,Aman,Laptop,Electronics,46667.0,4,Pune,Debit Card,2026-04-06,186668.0,2026,4
+1462,Rohit,T-Shirt,Fashion,75804.0,1,Jaipur,Upi,2026-04-07,75804.0,2026,4
+1463,Anjali,Watch,Accessories,43908.0,2,Gorakhpur,Credit Card,2026-04-08,87816.0,2026,4
+1464,Rahul,Headphones,Electronics,39999.0,2,Delhi,Cash,2026-04-09,79998.0,2026,4
+1465,Sneha,T-Shirt,Fashion,52769.0,5,Pune,Debit Card,2026-04-10,263845.0,2026,4
+1466,Karan,T-Shirt,Fashion,39059.0,3,Gorakhpur,Upi,2026-04-11,117177.0,2026,4
+1467,Neha,Shoes,Fashion,74819.0,2,Lucknow,Upi,2026-04-12,149638.0,2026,4
+1468,Rahul,Laptop,Electronics,49287.0,3,Gorakhpur,Credit Card,2026-04-13,147861.0,2026,4
+1469,Rohit,Laptop,Electronics,35988.0,4,Mumbai,Debit Card,2026-04-14,143952.0,2026,4
+1470,Sneha,Headphones,Electronics,74941.0,1,Mumbai,Credit Card,2026-04-15,74941.0,2026,4
+1471,Rohit,Headphones,Electronics,75163.0,5,Lucknow,Credit Card,2026-04-16,375815.0,2026,4
+1472,Neha,T-Shirt,Fashion,22931.0,3,Delhi,Debit Card,2026-04-17,68793.0,2026,4
+1473,Priya,Mobile,Electronics,62181.0,2,Pune,Debit Card,2026-04-18,124362.0,2026,4
+1474,Sneha,Shoes,Fashion,63983.0,3,Gorakhpur,Debit Card,2026-04-19,191949.0,2026,4
+1475,Priya,Shoes,Fashion,49653.0,2,Mumbai,Cash,2026-04-20,99306.0,2026,4
+1476,Neha,T-Shirt,Fashion,6868.0,3,Delhi,Debit Card,2026-04-21,20604.0,2026,4
+1477,Rahul,Watch,Accessories,27924.0,2,Lucknow,Upi,2026-04-22,55848.0,2026,4
+1478,Neha,Mobile,Electronics,45504.0,4,Jaipur,Credit Card,2026-04-23,182016.0,2026,4
+1479,Rahul,T-Shirt,Fashion,57485.0,2,Mumbai,Cash,2026-04-24,114970.0,2026,4
+1480,Sneha,Mobile,Electronics,50569.0,2,Lucknow,Debit Card,2026-04-25,101138.0,2026,4
+1481,Sneha,Mobile,Electronics,52826.0,1,Gorakhpur,Cash,2026-04-26,52826.0,2026,4
+1482,Anjali,Mobile,Electronics,23898.0,2,Pune,Debit Card,2026-04-27,47796.0,2026,4
+1483,Rohit,T-Shirt,Fashion,51361.0,1,Mumbai,Cash,2026-04-28,51361.0,2026,4
+1484,Anjali,Shoes,Fashion,76397.0,5,Mumbai,Credit Card,2026-04-29,381985.0,2026,4
+1485,Rohit,Shoes,Fashion,69077.0,1,Gorakhpur,Credit Card,2026-04-30,69077.0,2026,4
+1486,Anjali,Mobile,Electronics,66141.0,4,Jaipur,Upi,2026-05-01,264564.0,2026,5
+1487,Priya,Watch,Accessories,9578.0,1,Delhi,Upi,2026-05-02,9578.0,2026,5
+1488,Sneha,Laptop,Electronics,25503.0,5,Pune,Debit Card,2026-05-03,127515.0,2026,5
+1489,Rahul,T-Shirt,Fashion,63268.0,4,Mumbai,Credit Card,2026-05-04,253072.0,2026,5
+1490,Rohit,Laptop,Electronics,51547.0,3,Pune,Cash,2026-05-05,154641.0,2026,5
+1491,Neha,Watch,Accessories,72126.0,3,Mumbai,Cash,2026-05-06,216378.0,2026,5
+1492,Rohit,T-Shirt,Fashion,58160.0,1,Pune,Cash,2026-05-07,58160.0,2026,5
+1493,Rahul,Mobile,Electronics,50286.0,1,Lucknow,Upi,2026-05-08,50286.0,2026,5
+1494,Anjali,Shoes,Fashion,2425.0,5,Mumbai,Cash,2026-05-09,12125.0,2026,5
+1495,Rohit,Laptop,Electronics,26515.0,5,Pune,Upi,2026-05-10,132575.0,2026,5
+1496,Karan,Headphones,Electronics,33820.0,2,Delhi,Upi,2026-05-11,67640.0,2026,5
+1497,Priya,Headphones,Electronics,65381.0,5,Lucknow,Debit Card,2026-05-12,326905.0,2026,5
+1498,Sneha,Watch,Accessories,26789.0,2,Lucknow,Cash,2026-05-13,53578.0,2026,5
+1499,Rahul,Mobile,Electronics,3889.0,4,Delhi,Cash,2026-05-14,15556.0,2026,5
+1500,Sneha,Laptop,Electronics,26183.0,1,Pune,Credit Card,2026-05-15,26183.0,2026,5
